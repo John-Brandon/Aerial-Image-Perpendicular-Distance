@@ -64,7 +64,7 @@ x.coor
 ###############################
 cam.horizontal.fov = 81
 cam.vertical.fov = 54
-cam.horizontal.pixels = 4912
+#cam.horizontal.pixels = 4912
 cam.horizontal.pixels = 7360
 pixels.per.degree.horizontal = cam.horizontal.pixels / cam.horizontal.fov
 radians = function(deg){  # function to convert from degrees to radians
