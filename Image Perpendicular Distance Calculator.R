@@ -22,6 +22,7 @@ rm(list=ls())
 file.dir = "/Users/johnbrandon/DropBox/Aerial 2012 Shared Field DropBox/John Brandon/Image Perpendicular Distance Calculator"
 file.dir = setwd(dir=file.dir); file.dir; dir()
 getwd(); dir()
+# Test an edit to be committed here
 ###############################
 # read in image data file
 ###############################
