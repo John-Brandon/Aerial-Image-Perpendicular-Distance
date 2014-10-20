@@ -23,6 +23,7 @@ file.dir = "/Users/johnbrandon/DropBox/Aerial 2012 Shared Field DropBox/John Bra
 file.dir = setwd(dir=file.dir); file.dir; dir()
 getwd(); dir()
 # Test an edit to be committed here
+# Test a second edit (to be pushed) here
 ###############################
 # read in image data file
 ###############################
