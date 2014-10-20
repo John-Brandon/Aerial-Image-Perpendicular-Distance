@@ -14,6 +14,15 @@
 #   i) Add some initial checking of the data to be sure column names and certain values (i.e. none missing) meet expectations 
 #  ii) Make main double loop towards the end into a function call (need to list arguments), which returns 'dist.tmp'
 ###############################
+# Notes on merging branch with master through Git
+# Step 1. From your project repository, bring in changes (branch) and test
+# $ git fetch origin
+# $ git checkout -b Calculator-Edits origin/Calculator-Edits
+# $ git merge master
+# Step 2. Merge the changes (merge branch with master) and update on GitHub
+# $ git checkout master
+# $ git merge --no-ff Calculator-Edits
+# $ git push origin master
 ###############################
 # Set working directory -- NOTE: other users will need to modify this path according to their machine's directory  
 ###############################
