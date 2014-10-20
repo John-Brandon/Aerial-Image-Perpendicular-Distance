@@ -23,6 +23,7 @@ file.dir = "/Users/johnbrandon/DropBox/Aerial 2012 Shared Field DropBox/John Bra
 file.dir = setwd(dir=file.dir); file.dir; dir()
 getwd(); dir()
 # Calculator-Edit Branch
+# Test a change in the branch
 ###############################
 # read in image data file
 ###############################
